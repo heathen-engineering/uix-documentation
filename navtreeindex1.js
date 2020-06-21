@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"_serializable_color_drawer_8cs.html":[2,0,0,0,0,1,1,1],
 "_serializable_quaternion_8cs.html":[2,0,0,0,0,1,4,3],
 "_serializable_rect_transform_8cs.html":[2,0,0,0,0,1,4,4],
 "_serializable_transform_8cs.html":[2,0,0,0,0,1,4,5],
@@ -13,7 +12,6 @@ var NAVTREEINDEX1 =
 "_serializable_vector4_8cs.html":[2,0,0,0,0,1,4,9],
 "_serializable_vector4_drawer_8cs.html":[2,0,0,0,0,1,1,5],
 "_set_uix_cursor_state_8cs.html":[2,0,0,0,1,0,3,0,1],
-"_slider_sync_8cs.html":[2,0,0,0,2,1,0,2,1],
 "_sorting_layer_value_8cs.html":[2,0,0,0,1,0,3,6,3],
 "_sorting_layer_value_drawer_8cs.html":[2,0,0,0,1,0,3,1,0],
 "_sorting_layer_variable_8cs.html":[2,0,0,0,1,0,3,6,4],
@@ -47,8 +45,7 @@ var NAVTREEINDEX1 =
 "_test_process_state_game_events_8cs.html":[2,0,0,0,2,0,0,0],
 "_texture_pointer_variable_8cs.html":[2,0,0,0,0,1,3,1,16,0],
 "_texture_reference_8cs.html":[2,0,0,0,0,1,3,1,16,1],
-"_time_sync_8cs.html":[2,0,0,0,2,1,0,2,2],
-"_toggle_sync_8cs.html":[2,0,0,0,2,1,0,2,3],
+"_time_sync_8cs.html":[2,0,0,0,2,1,0,2,0],
 "_tool_tip_display_8cs.html":[2,0,0,0,1,0,6,0],
 "_tool_tip_trigger_8cs.html":[2,0,0,0,1,0,6,1],
 "_toolbox_2_framework_2_programmer_tools_2_property_attributes_8cs.html":[2,0,0,0,2,1,4,3],
@@ -249,5 +246,8 @@ var NAVTREEINDEX1 =
 "class_heathen_engineering_1_1_events_1_1_double_game_event.html":[1,0,0,2,19],
 "class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html":[1,0,0,2,20],
 "class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#a51be945cf9dfa3a66bf8715a0b2c114c":[1,0,0,2,20,0],
-"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#a64cd5f9c5da43e3f7f2e1951c40c43f3":[1,0,0,2,20,4]
+"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#a64cd5f9c5da43e3f7f2e1951c40c43f3":[1,0,0,2,20,4],
+"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#a83d8199248a34d5514ff3ae829311059":[1,0,0,2,20,3],
+"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#aa259501ae99b277c26327f354d75f67a":[1,0,0,2,20,1],
+"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#ad20ad97df7e6b619901d5d4045e6de09":[1,0,0,2,20,5]
 };

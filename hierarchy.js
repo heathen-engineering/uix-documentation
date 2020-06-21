@@ -392,11 +392,11 @@ var hierarchy =
     ] ],
     [ "ICollection", null, [
       [ "HeathenEngineering.Scriptable.ICollectionDataVariable< T >", "interface_heathen_engineering_1_1_scriptable_1_1_i_collection_data_variable.html", null ],
+      [ "HeathenEngineering.UIX.Controls.TreeViewCollection", "class_heathen_engineering_1_1_u_i_x_1_1_controls_1_1_tree_view_collection.html", null ],
+      [ "HeathenEngineering.UIX.Controls.TreeViewNode", "class_heathen_engineering_1_1_u_i_x_1_1_controls_1_1_tree_view_node.html", null ],
       [ "HeathenEngineering.UIX.TransformCollection", "class_heathen_engineering_1_1_u_i_x_1_1_transform_collection.html", [
         [ "HeathenEngineering.UIX.SelectableTransformCollection", "class_heathen_engineering_1_1_u_i_x_1_1_selectable_transform_collection.html", null ]
-      ] ],
-      [ "HeathenEngineering.UIX.TreeViewCollection", "class_heathen_engineering_1_1_u_i_x_1_1_tree_view_collection.html", null ],
-      [ "HeathenEngineering.UIX.TreeViewNode", "class_heathen_engineering_1_1_u_i_x_1_1_tree_view_node.html", null ]
+      ] ]
     ] ],
     [ "HeathenEngineering.Tools.IDamageHandler< T >", "interface_heathen_engineering_1_1_tools_1_1_i_damage_handler.html", null ],
     [ "HeathenEngineering.Tools.IDamageHandler< DamageHandler.Report >", "interface_heathen_engineering_1_1_tools_1_1_i_damage_handler.html", [
@@ -691,9 +691,9 @@ var hierarchy =
         [ "HeathenEngineering.Tools.ValueSensor< float >", "class_heathen_engineering_1_1_tools_1_1_value_sensor.html", null ]
       ] ],
       [ "HeathenEngineering.Tools.HeathenUIBehaviour", "class_heathen_engineering_1_1_tools_1_1_heathen_u_i_behaviour.html", [
-        [ "HeathenEngineering.UIX.HudElement", "class_heathen_engineering_1_1_u_i_x_1_1_hud_element.html", null ],
-        [ "HeathenEngineering.UIX.TreeViewCollection", "class_heathen_engineering_1_1_u_i_x_1_1_tree_view_collection.html", null ],
-        [ "HeathenEngineering.UIX.TreeViewNode", "class_heathen_engineering_1_1_u_i_x_1_1_tree_view_node.html", null ]
+        [ "HeathenEngineering.UIX.Controls.TreeViewCollection", "class_heathen_engineering_1_1_u_i_x_1_1_controls_1_1_tree_view_collection.html", null ],
+        [ "HeathenEngineering.UIX.Controls.TreeViewNode", "class_heathen_engineering_1_1_u_i_x_1_1_controls_1_1_tree_view_node.html", null ],
+        [ "HeathenEngineering.UIX.HudElement", "class_heathen_engineering_1_1_u_i_x_1_1_hud_element.html", null ]
       ] ],
       [ "HeathenEngineering.Tools.LanguageDropdown", "class_heathen_engineering_1_1_tools_1_1_language_dropdown.html", null ],
       [ "HeathenEngineering.Tools.ProjectileSpawner", "class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html", null ],
@@ -714,7 +714,6 @@ var hierarchy =
       ] ],
       [ "HeathenEngineering.UIX.EndDragAndDrop", "class_heathen_engineering_1_1_u_i_x_1_1_end_drag_and_drop.html", null ],
       [ "HeathenEngineering.UIX.FadeGroup", "class_heathen_engineering_1_1_u_i_x_1_1_fade_group.html", null ],
-      [ "HeathenEngineering.UIX.ImageSync", "class_heathen_engineering_1_1_u_i_x_1_1_image_sync.html", null ],
       [ "HeathenEngineering.UIX.Keyboard", "class_heathen_engineering_1_1_u_i_x_1_1_keyboard.html", null ],
       [ "HeathenEngineering.UIX.KeyboardDesigner", "class_heathen_engineering_1_1_u_i_x_1_1_keyboard_designer.html", null ],
       [ "HeathenEngineering.UIX.KeyboardKey", "class_heathen_engineering_1_1_u_i_x_1_1_keyboard_key.html", null ],
@@ -724,8 +723,6 @@ var hierarchy =
       [ "HeathenEngineering.UIX.PointerEventTrigger", "class_heathen_engineering_1_1_u_i_x_1_1_pointer_event_trigger.html", null ],
       [ "HeathenEngineering.UIX.ScrollRectHelper", "class_heathen_engineering_1_1_u_i_x_1_1_scroll_rect_helper.html", null ],
       [ "HeathenEngineering.UIX.SetUixCursorState", "class_heathen_engineering_1_1_u_i_x_1_1_set_uix_cursor_state.html", null ],
-      [ "HeathenEngineering.UIX.SliderSync", "class_heathen_engineering_1_1_u_i_x_1_1_slider_sync.html", null ],
-      [ "HeathenEngineering.UIX.ToggleSync", "class_heathen_engineering_1_1_u_i_x_1_1_toggle_sync.html", null ],
       [ "HeathenEngineering.UIX.ToolTipDisplay", "class_heathen_engineering_1_1_u_i_x_1_1_tool_tip_display.html", null ],
       [ "HeathenEngineering.UIX.ToolTipTrigger", "class_heathen_engineering_1_1_u_i_x_1_1_tool_tip_trigger.html", null ],
       [ "HeathenEngineering.UIX.UixButton", "class_heathen_engineering_1_1_u_i_x_1_1_uix_button.html", null ],

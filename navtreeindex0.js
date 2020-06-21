@@ -130,7 +130,6 @@ var NAVTREEINDEX0 =
 "_i_value_sensor_8cs.html":[2,0,0,0,2,1,2,4],
 "_image_fill_method_pointer_variable_8cs.html":[2,0,0,0,0,1,3,1,9,0],
 "_image_fill_method_reference_8cs.html":[2,0,0,0,0,1,3,1,9,1],
-"_image_sync_8cs.html":[2,0,0,0,2,1,0,2,0],
 "_image_type_pointer_variable_8cs.html":[2,0,0,0,0,1,3,1,10,0],
 "_image_type_reference_8cs.html":[2,0,0,0,0,1,3,1,10,1],
 "_instance_renderer_8cs.html":[2,0,0,0,2,1,0,9],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "_scroll_rect_helper_8cs.html":[2,0,0,0,1,0,3,5,5],
 "_selectable_transform_collection_8cs.html":[2,0,0,0,1,0,3,2,0],
 "_sensor_controller_8cs.html":[2,0,0,0,2,1,0,0,2],
-"_serializable_color_8cs.html":[2,0,0,0,0,1,4,2]
+"_serializable_color_8cs.html":[2,0,0,0,0,1,4,2],
+"_serializable_color_drawer_8cs.html":[2,0,0,0,0,1,1,1]
 };

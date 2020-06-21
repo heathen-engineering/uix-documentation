@@ -1,8 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#a83d8199248a34d5514ff3ae829311059":[1,0,0,2,20,3],
-"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#aa259501ae99b277c26327f354d75f67a":[1,0,0,2,20,1],
-"class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#ad20ad97df7e6b619901d5d4045e6de09":[1,0,0,2,20,5],
 "class_heathen_engineering_1_1_events_1_1_double_game_event_listener.html#af6fe4f09bfd659e4e3c1bad8b9b67524":[1,0,0,2,20,2],
 "class_heathen_engineering_1_1_events_1_1_float_change_event.html":[1,0,0,2,22],
 "class_heathen_engineering_1_1_events_1_1_float_change_event_listener.html":[1,0,0,2,23],
@@ -249,5 +246,8 @@ var NAVTREEINDEX2 =
 "class_heathen_engineering_1_1_events_1_1_unity_unsigned_int_event.html":[1,0,0,2,177],
 "class_heathen_engineering_1_1_events_1_1_unity_unsigned_long_change_event.html":[1,0,0,2,178],
 "class_heathen_engineering_1_1_events_1_1_unity_unsigned_long_collection_event.html":[1,0,0,2,179],
-"class_heathen_engineering_1_1_events_1_1_unity_unsigned_long_data_event.html":[1,0,0,2,180]
+"class_heathen_engineering_1_1_events_1_1_unity_unsigned_long_data_event.html":[1,0,0,2,180],
+"class_heathen_engineering_1_1_events_1_1_unity_unsigned_long_event.html":[1,0,0,2,181],
+"class_heathen_engineering_1_1_events_1_1_unity_vector2_change_event.html":[1,0,0,2,182],
+"class_heathen_engineering_1_1_events_1_1_unity_vector2_collection_event.html":[1,0,0,2,183]
 };

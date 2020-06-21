@@ -1,8 +1,5 @@
 var NAVTREEINDEX5 =
 {
-"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a7a2462b44b54d16969611b68e88c3579":[1,0,0,3,103,8],
-"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a7d5a9bc97c48a8d17fe5ce9116a1c88a":[1,0,0,3,103,4],
-"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a94a450aa011e0f738353d2d139496e2d":[1,0,0,3,103,12],
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#aa049da5c6ca9d3bab7474fe25099013e":[1,0,0,3,103,10],
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#ab71b32ae743be02818b6678ae2de95a0":[1,0,0,3,103,14],
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#ac90ca66d025d2bbfa91dcb054aa53f4f":[1,0,0,3,103,9],
@@ -249,5 +246,8 @@ var NAVTREEINDEX5 =
 "class_heathen_engineering_1_1_tools_1_1_matrix_transform_data.html#abac5d74d2cbbaa40ace571bb38f98dec":[1,0,0,5,23,1],
 "class_heathen_engineering_1_1_tools_1_1_matrix_transform_data.html#af0c5a0fbc5a6966db750a14367d82038":[1,0,0,5,23,3],
 "class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html":[1,0,0,5,26],
-"class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html#a0caa5d73aa79ef92655ef007ca1048bb":[1,0,0,5,26,2]
+"class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html#a0caa5d73aa79ef92655ef007ca1048bb":[1,0,0,5,26,2],
+"class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html#a28da058383878aba6df6872dab66c72c":[1,0,0,5,26,3],
+"class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html#a4676036e070724c6e20dfd60a2c975aa":[1,0,0,5,26,8],
+"class_heathen_engineering_1_1_tools_1_1_projectile_spawner.html#a573736dd3e494e979e706ebfeaccf9f4":[1,0,0,5,26,10]
 };

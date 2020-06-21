@@ -1,8 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#a7a18cb9654ae2caf3cb044c11e0ff710":[1,0,0,3,27,22],
-"class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#a7d680eb233f50dfb7875dcf01a22c888":[1,0,0,3,27,4],
-"class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#a8eb48c8ba6f9bea3fd2f97d101bc4084":[1,0,0,3,27,15],
 "class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#a9c08d574490e61cb40f38b5204887551":[1,0,0,3,27,16],
 "class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#aa2754803a561fdbe3065ee82160a5bc9":[1,0,0,3,27,13],
 "class_heathen_engineering_1_1_scriptable_1_1_data_variable.html#aae7affff5cbeaa4ace0c50a0a3c4be47":[1,0,0,3,27,21],
@@ -249,5 +246,8 @@ var NAVTREEINDEX4 =
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a1d6339049acc953b23e87999fc2dab5a":[1,0,0,3,103,3],
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a315030dd4c8c2175b9c02d40dadc841f":[1,0,0,3,103,15],
 "class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a34139a3f8f31db7152523e10c4c40b2c":[1,0,0,3,103,16],
-"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a5f4b7902e06a87214b90b1bca3977801":[1,0,0,3,103,2]
+"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a5f4b7902e06a87214b90b1bca3977801":[1,0,0,3,103,2],
+"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a7a2462b44b54d16969611b68e88c3579":[1,0,0,3,103,8],
+"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a7d5a9bc97c48a8d17fe5ce9116a1c88a":[1,0,0,3,103,4],
+"class_heathen_engineering_1_1_scriptable_1_1_variable_reference.html#a94a450aa011e0f738353d2d139496e2d":[1,0,0,3,103,12]
 };

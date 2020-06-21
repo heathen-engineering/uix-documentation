@@ -1,0 +1,4 @@
+var namespace_heathen_engineering_1_1_serializable_1_1_demo =
+[
+    [ "ExampleReferencingAVariable", "class_heathen_engineering_1_1_serializable_1_1_demo_1_1_example_referencing_a_variable.html", "class_heathen_engineering_1_1_serializable_1_1_demo_1_1_example_referencing_a_variable" ]
+];
